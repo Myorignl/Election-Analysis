@@ -135,4 +135,3 @@ with open(file_to_save, "w") as txt_file:
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
     
-    At this time the file is not loading, I have worked with the TA's to resolved and the TA could not figure out why is not working. I tried directly loading the excell but was advised againts it as the asignment requires loading the file corectly. Folders are set as follows: Phython folder> Assignment_03-Pypoll >challenge folder(containts pypoll) and Res folder(contains csv file). If I spend any more time in this assignment I will be severly behind in class. All sections  have been completed as instructed. Help troubleshooting what went wrong and feedback would be greatly appreciated. Thank you.
