@@ -12,7 +12,8 @@ The purpose of this challenge is to complete the vote count of a recent election
   
 ## Summary
 The analysis of the election show that:
-  * There were 369,711 votes cast in the election
+
+There were 369,711 votes cast in the election
   * The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -24,16 +25,16 @@ The analysis of the election show that:
   * The winner of the election was:
     - Diana DeGette with 73.8% of the votes and 272,892 number of votes 
     
-  *The Counties for this election were:
-    -Jefferson 
-    -Denver 
-    -Arapahoe
-   *The County voter turnout was: 
-    -Jefferson had 10.5% of the votes totaling 38,855 voters 
-    -Denver had 82.8% of the votes totaling 306,055 voters
-    -Arapahoe had 6.7% of the votes totaling 24,801 voters
-   *The largest county turnout was seen at 
-     -Denver with 306,055 voters, at 82.8% of the votes
+  * The counties for this election were:
+    - Jefferson 
+    - Denver 
+    - Arapahoe
+  * The County voter turnout was: 
+    - Jefferson had 10.5% of the votes totaling 38,855 voters 
+    - Denver had 82.8% of the votes totaling 306,055 voters
+    - Arapahoe had 6.7% of the votes totaling 24,801 voters
+   * The largest county turnout was seen at 
+     - Denver with 306,055 voters, at 82.8% of the votes
     
 ![Election Results](https://user-images.githubusercontent.com/104601282/176951644-9677bf19-5542-499e-8e65-56b610eb9a26.png)
     
