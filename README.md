@@ -11,7 +11,7 @@ The purpose of this challenge is to complete the vote count of a recent election
   * Software:Python 3.7.6, Visual Studio Code,1.67
   
 ## Summary
-The analysis of teh election show that:
+The analysis of the election show that:
   * There were 369,711 votes cast in the election
   * The candidates were:
     - Charles Casper Stockham
@@ -23,14 +23,24 @@ The analysis of teh election show that:
     - Raymon Anthony Doane recieved 3.1% of the votes totaling 11,606 votes 
   * The winner of teh election was:
     - Diana DeGette with 73.8% of the votes and 272,892 number of votes 
+  *The Counties for this election were:
+    -Jefferson 
+    -Denver 
+    -Arapahoe
+   * The County voter turnout was: 
+    -Jefferson had 10.5% of the votes totaling 38,855 voters 
+    -Denver had 82.8% of the votes totaling 306,055 voters
+    -Arapahoe had 6.7% of the votes totaling 24,801 voters
+   *The largest county turnout was seen at 
+     -Denver with 306,055 voters, at 82.8% of the votes
     
-   ![Election Results](https://user-images.githubusercontent.com/104601282/176557717-9a077442-112e-45d3-8f4d-112822235bca.png)
+![Election Results](https://user-images.githubusercontent.com/104601282/176951644-9677bf19-5542-499e-8e65-56b610eb9a26.png)
     
 ## Challenge Overview 
   * importing the data was a challenge, had issues with teh folder location and teh name convenction of the CSV file. Once resolved the code began working correctly. 
   * The destination folder was captalized, when creating a path the  names have to be exact or an error is generated.
-  * Each new variable has to be declared or the code is umable to read. ie county_List = county_names
-
+  * Each new variable has to be declared or the code is unable to read.  A variable name should not be repeated as it will not run corrently
+  
 ## Challenge Summary
 
-Python made it possible to determin a winner by processing a very large number of votes in a matter of seconds. The program had is challenges (learning curve) but will be extemly usefull in future projects.
+Python made it possible to determin a winner by processing a very large number of votes in a matter of seconds. The alignment of each block of code has to be in the right place, to ensure this is done correctly I created my if statement and then tabed to the next line. The program has it's learning curve but will be extemly usefull in future projects.
