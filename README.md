@@ -39,8 +39,10 @@ There were 369,711 votes cast in the election
 ![Election Results](https://user-images.githubusercontent.com/104601282/176951644-9677bf19-5542-499e-8e65-56b610eb9a26.png)
     
 ## Challenge Overview 
-  * importing the data was a challenge, had issues with teh folder location and teh name convenction of the CSV file. Once resolved the code began working correctly. 
-  * The destination folder was captalized, when creating a path the  names have to be exact or an error is generated.
+  * importing the data was a challenge, had issues with teh folder location and teh name convenction of the CSV file. Once resolved the code began working correctly. My path was set as: file_to_load = os.path.join("Res","election_results.csv")
+
+  * The destination folder was captalized, when creating a path the  names have to be exact or an error is generated. The save file was set as: file_to_save = os.path.join("Election_Analysis.txt")
+  
   * Each new variable has to be declared or the code is unable to read.  A variable name should not be repeated as it will not run corrently
   
 ## Challenge Summary
